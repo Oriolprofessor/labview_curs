@@ -13,6 +13,8 @@
 		<Item Name="000 Aleatori shift register 2.vi" Type="VI" URL="../000 Aleatori shift register 2.vi"/>
 		<Item Name="001 Waveform feed variable.vi" Type="VI" URL="../001 Waveform feed variable.vi"/>
 		<Item Name="002 Comparació aleatoris.vi" Type="VI" URL="../002 Comparació aleatoris.vi"/>
+		<Item Name="003 shift register led.vi" Type="VI" URL="../003 shift register led.vi"/>
+		<Item Name="004 shift register numero.vi" Type="VI" URL="../004 shift register numero.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Random Number (Range) DBL.vi" Type="VI" URL="/&lt;vilib&gt;/numeric/Random Number (Range) DBL.vi"/>
