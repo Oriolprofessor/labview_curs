@@ -10,17 +10,10 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="000 Case exemple.vi" Type="VI" URL="../000 Case exemple.vi"/>
-		<Item Name="001 Case arrel quadrada.vi" Type="VI" URL="../001 Case arrel quadrada.vi"/>
-		<Item Name="002 Case calculadora.vi" Type="VI" URL="../002 Case calculadora.vi"/>
-		<Item Name="003 Treu tres missatges pantalla.vi" Type="VI" URL="../003 Treu tres missatges pantalla.vi"/>
-		<Item Name="004 Array superior a u.vi" Type="VI" URL="../004 Array superior a u.vi"/>
-		<Item Name="Dependencies" Type="Dependencies">
-			<Item Name="vi.lib" Type="Folder">
-				<Item Name="ex_CorrectErrorChain.vi" Type="VI" URL="/&lt;vilib&gt;/express/express shared/ex_CorrectErrorChain.vi"/>
-				<Item Name="subDisplayMessage.vi" Type="VI" URL="/&lt;vilib&gt;/express/express output/DisplayMessageBlock.llb/subDisplayMessage.vi"/>
-			</Item>
-		</Item>
+		<Item Name="001 Llegir els valors d’un Cluster.vi" Type="VI" URL="../001 Llegir els valors d’un Cluster.vi"/>
+		<Item Name="002 Conversió unitats cluster tres elements.vi" Type="VI" URL="../002 Conversió unitats cluster tres elements.vi"/>
+		<Item Name="003 Bundle unbundle.vi" Type="VI" URL="../003 Bundle unbundle.vi"/>
+		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
 </Project>

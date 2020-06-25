@@ -10,8 +10,16 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="000 Case exemple.vi" Type="VI" URL="../004 Arrays and Graphs/000 Case exemple.vi"/>
-		<Item Name="Dependencies" Type="Dependencies"/>
+		<Item Name="001 concatenació dos arrays.vi" Type="VI" URL="../001 concatenació dos arrays.vi"/>
+		<Item Name="002 noms i cognoms.vi" Type="VI" URL="../002 noms i cognoms.vi"/>
+		<Item Name="003 abreujatures.vi" Type="VI" URL="../003 abreujatures.vi"/>
+		<Item Name="005 ascii.vi" Type="VI" URL="../005 ascii.vi"/>
+		<Item Name="0055 Case arrel quadrada strings.vi" Type="VI" URL="../0055 Case arrel quadrada strings.vi"/>
+		<Item Name="Dependencies" Type="Dependencies">
+			<Item Name="vi.lib" Type="Folder">
+				<Item Name="Space Constant.vi" Type="VI" URL="/&lt;vilib&gt;/dlg_ctls.llb/Space Constant.vi"/>
+			</Item>
+		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
 </Project>
