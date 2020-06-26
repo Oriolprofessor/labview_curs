@@ -19,6 +19,8 @@
 		<Item Name="SubVIs" Type="Folder" URL="../SubVIs">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
+		<Item Name="main bascula.vi" Type="VI" URL="../main bascula.vi"/>
+		<Item Name="main local variable.vi" Type="VI" URL="../main local variable.vi"/>
 		<Item Name="main.vi" Type="VI" URL="../main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
