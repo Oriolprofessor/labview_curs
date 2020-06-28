@@ -20,7 +20,7 @@
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
 		<Item Name="Estats.ctl" Type="VI" URL="../Estats.ctl"/>
-		<Item Name="main_new.vi" Type="VI" URL="../main_new.vi"/>
+		<Item Name="main_new2.vi" Type="VI" URL="../main_new2.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
