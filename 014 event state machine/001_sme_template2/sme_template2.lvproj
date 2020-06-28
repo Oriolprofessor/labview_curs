@@ -13,14 +13,18 @@
 		<Item Name="Controls" Type="Folder" URL="../Controls">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name="Images" Type="Folder" URL="../Images">
+		<Item Name="Data" Type="Folder" URL="../Data">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name="SubVIs" Type="Folder" URL="../SubVIs">
+		<Item Name="Documents" Type="Folder" URL="../Documents">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name="Estats.ctl" Type="VI" URL="../Estats.ctl"/>
-		<Item Name="main_new.vi" Type="VI" URL="../main_new.vi"/>
+		<Item Name="Main" Type="Folder" URL="../Main">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
+		</Item>
+		<Item Name="SubVI" Type="Folder" URL="../SubVI">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
+		</Item>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>

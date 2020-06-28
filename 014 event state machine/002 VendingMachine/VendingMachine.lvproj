@@ -13,14 +13,13 @@
 		<Item Name="Controls" Type="Folder" URL="../Controls">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name="Images" Type="Folder" URL="../Images">
+		<Item Name="SubVI" Type="Folder" URL="../SubVI">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name="SubVIs" Type="Folder" URL="../SubVIs">
+		<Item Name="Vichy Vending Machine Images" Type="Folder" URL="../Vichy Vending Machine Images">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name="Estats.ctl" Type="VI" URL="../Estats.ctl"/>
-		<Item Name="main_new.vi" Type="VI" URL="../main_new.vi"/>
+		<Item Name="main.vi" Type="VI" URL="../main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
